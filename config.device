@@ -1,0 +1,2 @@
+/configure service vprn 1212 interface TE-1/1/19:3981 sap 1/1/19:3981 ingress qos 107  
+/configure service vprn 1212 interface TE-1/1/19:3982 sap 1/1/19:3982 egress qos 105

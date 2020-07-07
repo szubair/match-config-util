@@ -1,0 +1,3 @@
+####interface:nokia:cisco
+3982:Nokia_SRAN_Abis_IN:107
+3982:Nokia_SRAN_Abis_Parent_OUT:105
